@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Marti Kandallu
+
 email: marti.kandallu@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This site was built using a Jekyll framework. While I can appreciate the art of Frontend Development, my talents are put to better use in Backend Development. Check out some of my projects!
