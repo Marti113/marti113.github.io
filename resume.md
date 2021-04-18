@@ -1,27 +1,36 @@
 <body>
 
-Core Qualifications
+<h1>Core Qualifications </h1>
 
-Proficient in Java (3+ years) and Python (3+ years) languages Experience working in SQL/MongoDB databases Built websites using AWS, Django, HTML/CSS Excellent at troubleshooting problems and finding answers Extensive professional background working in small and large organizations
+<ul>Proficient in Java (3+ years) and Python (3+ years) languages </ul>
+<ul>Experience working in SQL/MongoDB databases </ul>
+<ul>Built websites using AWS, Django, Jekyll, HTML/CSS </ul>
+<ul>Excellent at troubleshooting problems and finding answers</ul>
+<ul>Extensive professional background working in small and large organizations</ul>
 
-Education
+<h1>Education </h1>
 
-City College of San Francisco | May 2020 | Computer Programming Certificate in Java Relevant Coursework: Data Structures and Algorithms, Advanced Java SE, Software Engineering
+<p>City College of San Francisco | May 2020 | Computer Programming Certificate in Java</p> 
+<ul>Relevant Coursework: Data Structures and Algorithms, Advanced Java SE, Software Engineering</ul>
 
-University of North Carolina at Asheville | May 2012 | Bachelor’s degree in Sociology
+<p>University of North Carolina at Asheville | May 2012 | Bachelor’s degree in Sociology</p>
 
-Experience
+<h1>Experience</h1>h1>
 
-Salesforce | Pathfinder Developer Training | May 2020 – August 2020 Learning the fundamentals of the Salesforce software and platforms
+<p>Salesforce | Pathfinder Developer Training | May 2020 – August 2020</p>
+<ul>Learning the fundamentals of the Salesforce software and platforms</ul>
 
-CCSF | Teaching Assistant CS 110 Intro to Programming | Aug 2019 – May 2020 Download, run, debug, and grade student assignments. Hold office hours for tutoring
+<p>CCSF | Teaching Assistant CS 110 Intro to Programming | Aug 2019 – May 2020</p>
+<ul>Download, run, debug, and grade student assignments. Hold office hours for tutoring</ul>
 
-A complete history on non-technical experience available on request
+<p>A complete history on non-technical experience available on request</p>
 
-Special Projects
+<h1>Special Projects</h1>
 
-Sweat Roulette (github.com/Marti113/Sweat_Roulette) Original android workout app coded in Java, published on Google Play Store
-
-NASA | Community College Aerospace Scholars May 2020 – Oct 2020 5 week online training and 2 week virtual onsite experience to prepare students for a career in STEM
+<p>Sweat Roulette (github.com/Marti113/Sweat_Roulette) <p>
+<p>Original android workout app coded in Java, published on Google Play Store</p>
+<hr>
+<p>NASA | Community College Aerospace Scholars May 2020 – Oct 2020 </p>
+<p>5 week online training and 2 week virtual onsite experience to prepare students for a career in STEM</p>
 
 </body>
