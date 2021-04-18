@@ -1,9 +1,10 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Marti Kandallu</title>
-</head>
+<title>Marti Kandallu</title> 
+
 <body>
+
 Welcome to my website!
+
+<p>
+I am still working on a few things...
+</p>
 </body>
-</html>
