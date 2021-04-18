@@ -12,7 +12,7 @@ City College of San Francisco | May 2020 | Computer Programming Certificate in J
 Relevant Coursework: Data Structures and Algorithms, Advanced Java SE, Software Engineering
 
 University of North Carolina at Asheville | May 2012 | Bachelor’s degree in Sociology
-
+   
 Experience
 
 Salesforce | Pathfinder Developer Training | May 2020 – August 2020
