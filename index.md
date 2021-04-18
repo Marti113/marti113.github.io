@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>This is my home page!</title>
+    <title>Marti Kandallu</title>
 </head>
 <body>
-WELCOME HUMANS!
+Welcome to my website!
 </body>
 </html>
