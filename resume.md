@@ -2,11 +2,11 @@
 
 <h1>Core Qualifications </h1>
 
-<ul>Proficient in Java (3+ years) and Python (3+ years) languages </ul>
-<ul>Experience working in SQL/MongoDB databases </ul>
-<ul>Built websites using AWS, Django, Jekyll, HTML/CSS </ul>
-<ul>Excellent at troubleshooting problems and finding answers</ul>
-<ul>Extensive professional background working in small and large organizations</ul>
+<p>Proficient in Java (3+ years) and Python (3+ years) languages </p>
+<p>Experience working in SQL/MongoDB databases </p>
+<p>Built websites using AWS, Django, Jekyll, HTML/CSS </p>
+<p>Excellent at troubleshooting problems and finding answers</p>
+<p>Extensive professional background working in small and large organizations</p>
 
 <h1>Education </h1>
 
@@ -15,7 +15,7 @@
 
 <p>University of North Carolina at Asheville | May 2012 | Bachelor’s degree in Sociology</p>
 
-<h1>Experience</h1>h1>
+<h1>Experience</h1>
 
 <p>Salesforce | Pathfinder Developer Training | May 2020 – August 2020</p>
 <ul>Learning the fundamentals of the Salesforce software and platforms</ul>
@@ -32,5 +32,3 @@
 <hr>
 <p>NASA | Community College Aerospace Scholars May 2020 – Oct 2020 </p>
 <p>5 week online training and 2 week virtual onsite experience to prepare students for a career in STEM</p>
-
-</body>
