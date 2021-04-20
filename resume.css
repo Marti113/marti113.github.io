@@ -1,0 +1,167 @@
+/* Colors: #fd9 #9bf */
+/*    old: #9f0 #c9f */
+
+article {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 1em 3em;
+  background: #fff;
+}
+
+h1 {
+  font-size: 2.4em;
+}
+
+h2 {
+  font-size: 2.4em;
+  border-top: 4px solid #9bf;
+}
+
+h3 {
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
+a, a:visited, a:hover {
+  text-decoration: none;
+  border-bottom: 2px dotted #999;
+  color: #333;
+}
+a:focus, a:hover, a:active {
+  outline: 0;
+}
+
+.contact dt {
+  font-weight: bold;
+  background-color: #fd9;
+  clear: left;
+  float: left;
+  margin-right: 0.6em;
+  padding: 0px 0.15em;
+}
+
+.contact dl, .contact dt {
+  margin-bottom: 0.5em;
+}
+
+.col1 {
+  min-width: 35.3%;
+  max-width: 240px;
+  float: left;
+  clear: left;
+}
+
+.col2 {
+  min-width: 58.8%;
+  max-width: 400px;
+  float: right;
+  clear: right;
+}
+
+.col1 h2 {
+  font-size: 2.2em;
+  border-top: 4px solid #fd9;
+}
+
+.col1 .group section {
+  border-top: 4px solid #fd9;
+}
+
+.col1 section {
+  margin-bottom: 0.5em;
+  padding-top: 0.6em;
+}
+
+.col1 section + section {
+  margin-top: 15px;
+}
+
+li+li {
+  margin: 0.3em 0em;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.group {
+  margin: 20px 0px;
+  clear: both;
+}
+
+.job {
+  border-top: 4px solid #9bf;
+}
+
+.job header {
+  margin-top: 0.6em;
+  margin-bottom: 0.5em;
+  line-height: 1.2em;
+}
+
+.date, .tech, footer {
+  color: #999;
+}
+
+footer {
+  clear: both;
+}
+
+.project, header > .team {
+  margin-top: 0.4em;
+  margin-bottom: 0.8em;
+}
+
+.name {
+  clear: left;
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: square;
+  list-style-position: outside;
+  padding-left: 1em;
+}
+
+@media print {
+  body, article, .col1, .col2 {
+    margin: 0in;
+    padding: 0in;
+    background-color: #fff;
+  }
+
+  body {
+    font-size: 11pt;
+    line-height: 1.25em;
+  }
+
+  article {
+    width: 100%;
+    min-width: 100%;
+  }
+
+  .col1 {
+    float: left;
+    width: 36%;
+  }
+
+  .col2 {
+    float: right;
+    width: 58.8%;
+  }
+
+  .col1 > .group, .col2 > .group {
+    margin-top: 0.15in;
+  }
+
+  a, a:visited, a:hover {
+    border: none;
+  }
+
+  a[href]:after {
+    font-family: monospace;
+    font-weight: normal;
+    font-size: 0.75em;
+    content: " - " attr(href);
+  }
+}
