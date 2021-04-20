@@ -10,18 +10,18 @@
 
 <h1>Education </h1>
 
-<p>City College of San Francisco | May 2020 | Computer Programming Certificate in Java</p> 
-<div><i>Relevant Coursework: Data Structures and Algorithms, Advanced Java SE, Software Engineering</i></div>
+<div>City College of San Francisco | May 2020 | Computer Programming Certificate in Java</div> 
+<p><i>Relevant Coursework: Data Structures and Algorithms, Advanced Java SE, Software Engineering</i></p>
 
-<p>University of North Carolina at Asheville | May 2012 | Bachelor’s degree in Sociology</p>
+<div>University of North Carolina at Asheville | May 2012 | Bachelor’s degree in Sociology</div>
 
 <h1>Experience</h1>
 
-<p>Salesforce | Pathfinder Developer Training | May 2020 – August 2020</p>
-<div>Learning the fundamentals of the Salesforce software and platforms</div>
+<div>Salesforce | Pathfinder Developer Training | May 2020 – August 2020</p>
+<p>Learning the fundamentals of the Salesforce software and platforms</div>
 
-<p>CCSF | Teaching Assistant CS 110 Intro to Programming | Aug 2019 – May 2020</p>
-<div>Download, run, debug, and grade student assignments. Hold office hours for tutoring</div>
+<div>CCSF | Teaching Assistant CS 110 Intro to Programming | Aug 2019 – May 2020</p>
+<p>Download, run, debug, and grade student assignments. Hold office hours for tutoring</div>
 
 <p><i>A complete history on non-technical experience available on request</i></p>
 
@@ -29,12 +29,8 @@
 
 <p>Sweat Roulette (github.com/Marti113/Sweat_Roulette) <p>
 <p>Original android workout app coded in Java, published on <a href="https://play.google.com/store/apps/details?id=io.github.marti113.sweatroulette">Google Play Store</a> </p>
-
+<ul></ul>
 <p>NASA | Community College Aerospace Scholars May 2020 – Oct 2020 </p>
 <p>5 week online training and 2 week virtual onsite experience to prepare students for a career in STEM</p>
 
 
-<footer>
-
-<p><a href="https:www.linkedin.com/in/marti-k"> linkedin.com/in/marti-k </a></p>
-</footer>
