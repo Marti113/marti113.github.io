@@ -35,6 +35,6 @@
 
 
 <footer>
-<p>marti.kandallu@gmail.com</p>
+
 <p><a href="https:www.linkedin.com/in/marti-k"> linkedin.com/in/marti-k </a></p>
 </footer>
