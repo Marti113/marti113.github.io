@@ -20,9 +20,9 @@
 
 title: Marti Kandallu
 
-email: marti.kandallu@gmail.com
+email:
 description: >- # this means to ignore newlines until "baseurl:"
-  This site was built using a Jekyll framework. While I can appreciate the art of Frontend Development, my talents are put to better use in Backend Development. Check out some of my projects!
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://martikandallu.com
 twitter_username: MartiK62382477

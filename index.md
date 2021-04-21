@@ -8,5 +8,5 @@ Welcome to my website!
 I am still working on a few things...
 </p>
 
-<button class="https://www.martikandallu.com/resume">Resume</button>
+
 </body>
