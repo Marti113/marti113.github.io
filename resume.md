@@ -1,6 +1,6 @@
 ---
 ---
-#Resume
+# Resume
 
 # Core Qualifications
 Proficient in Java (3+ years) and Python (3+ years) languages  
@@ -25,7 +25,7 @@ Download, run, debug, and grade student assignments. Hold office hours for tutor
 
 # Special Projects
 Twitter Bot  
-A responsive bot programed in Python using the Tweepy library, hosted on Heroku
+A responsive bot programmed in Python using the Tweepy library, hosted on Heroku  
 *Tweet #winning [@MartiK62382477](https://twitter.com/MartiK62382477) to see it in action*
 
 Sweat Roulette  
