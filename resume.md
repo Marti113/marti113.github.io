@@ -2,19 +2,19 @@
 ---
 # Resume
 
-# Core Qualifications
+## Core Qualifications
 Proficient in Java (3+ years) and Python (3+ years) languages  
 Experience working in SQL/MongoDB databases  
 Built websites using AWS, Django, HTML/CSS
 Extensive professional background working in small and large organizations  
 
-# Education
+## Education
 City College of San Francisco (May 2020) Computer Programming Certificate in Java  
 *Relevant Coursework: Data Structures and Algorithms, Advanced Java SE, Software Engineering*  
 
 University of North Carolina at Asheville (May 2012) Bachelor’s degree in Sociology  
 
-# Experience
+## Experience
 Salesforce | Pathfinder Developer Training | May 2020 – August 2020  
 Learning the fundamentals of the Salesforce software and platforms
 
@@ -23,7 +23,7 @@ Download, run, debug, and grade student assignments. Hold office hours for tutor
 
 *A complete history on non-technical experience available on request*
 
-# Special Projects
+## Special Projects
 Twitter Bot  
 A responsive bot programmed in Python using the Tweepy library, hosted on Heroku  
 *Tweet #winning [@MartiK62382477](https://twitter.com/MartiK62382477) to see it in action*
