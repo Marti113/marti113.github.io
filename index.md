@@ -11,4 +11,4 @@ These kids were smart, resourceful, and resilient. I saw potential in them to le
 
 Beyond being an awesome engineer, I want to volunteer with STEM focused organizations for kids especially in the programming field. I know my story of being an unconventional programmer would inspire other people.  
 
-Please check out my [resume](www.martikandallu.com/resume) and projects.
+Please check out my [resume](/resume) and projects.
