@@ -3,10 +3,10 @@ title: Resume
 ---
 
 ## Core Qualifications
-Proficient in Java (3+ years) and Python (3+ years) languages  
-Experience working in SQL/MongoDB databases  
-Built websites using AWS, Django, HTML/CSS
-Extensive professional background working in small and large organizations  
+-Proficient in Java (3+ years) and Python (3+ years) languages  
+-Experience working in SQL/MongoDB databases  
+-Built websites using AWS, Django, HTML/CSS
+-Extensive professional background working in small and large organizations  
 
 ## Education
 City College of San Francisco (May 2020) Computer Programming Certificate in Java  
