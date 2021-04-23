@@ -29,7 +29,7 @@ twitter_username: MartiK62382477
 github_username:  Marti113
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
