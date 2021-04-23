@@ -10,20 +10,20 @@ Extensive professional background working in small and large organizations
 
 ## Education
 City College of San Francisco (May 2020) Computer Programming Certificate in Java  
-*Relevant Coursework: Data Structures and Algorithms, Advanced Java SE, Software Engineering*  
+***Relevant Coursework:*** *Data Structures and Algorithms, Advanced Java SE, Software Engineering*  
 
 University of North Carolina at Asheville (May 2012) Bachelor’s degree in Sociology  
 
 ## Experience
-Salesforce | Pathfinder Developer Training | May 2020 – August 2020  
+Salesforce | Pathfinder Developer Training (May 2020 – August 2020)  
 Learning the fundamentals of the Salesforce software and platforms
 
-CCSF | Teaching Assistant CS 110 Intro to Programming | Aug 2019 – May 2020  
+CCSF | Teaching Assistant CS 110 Intro to Programming (Aug 2019 – May 2020)  
 Download, run, debug, and grade student assignments. Hold office hours for tutoring
 
 *A complete history on non-technical experience available on request*
 
-## Special Projects
+## Projects
 Twitter Bot  
 A responsive bot programmed in Python using the Tweepy library, hosted on Heroku  
 *Tweet #winning [@MartiK62382477](https://twitter.com/MartiK62382477) to see it in action*
