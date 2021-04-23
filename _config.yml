@@ -29,7 +29,7 @@ twitter_username: MartiK62382477
 github_username:  Marti113
 
 # Build settings
-theme: minima
+theme: agency-jekyll-theme
 plugins:
   - jekyll-feed
 
