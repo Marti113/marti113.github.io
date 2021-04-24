@@ -6,7 +6,7 @@ layout: resume
 ## Core Qualifications
 -Proficient in Java (3+ years) and Python (3+ years) languages  
 -Experience working in SQL/MongoDB databases  
--Built websites using AWS, Django, HTML/CSS
+-Built websites using AWS, Django, Jekyll, HTML/CSS  
 -Extensive professional background working in small and large organizations  
 
 ## Education
