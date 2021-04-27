@@ -26,7 +26,7 @@ Download, run, debug, and grade student assignments. Hold office hours for tutor
 
 ## Projects
 Weather Bot  
-Tweet #weather with any city name to [@MartiK62382477](https://twitter.com/MartiK62382477) to see it in action
+Tweet #weather with any city name to [@MartiK62382477](https://twitter.com/MartiK62382477) to see it in action.  
 A responsive bot programmed in Python using the Tweepy library, hosted on Heroku  
 Integrated OpenWeather API and GeoText libraries
 
