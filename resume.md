@@ -25,9 +25,10 @@ Download, run, debug, and grade student assignments. Hold office hours for tutor
 *A complete history on non-technical experience available on request*
 
 ## Projects
-Twitter Bot  
+Weather Bot  
+Tweet #weather with any city name to [@MartiK62382477](https://twitter.com/MartiK62382477) to see it in action
 A responsive bot programmed in Python using the Tweepy library, hosted on Heroku  
-*Tweet #winning [@MartiK62382477](https://twitter.com/MartiK62382477) to see it in action*
+Integrated OpenWeather API and GeoText libraries
 
 Sweat Roulette  
 Original android workout app coded in Java, published on [Google Play Store](https://play.google.com/store/apps/details?id=io.github.marti113.sweatroulette)
