@@ -3,7 +3,7 @@
 ---
 Welcome to my website!
 
-I've been programming as a hobby since 2016. In 2018, I decided to round out my studies with CS classes at City College SF.  
+I've been programming as a hobby since 2016. In 2018, I decided to round out my studies with CS classes at City College SF. I was recently accepted into Georgia Tech's MS Computer Science program. It is a part time program I plan to do in conjuction with a full time SE job. 
 
 My previous professional experience is mostly in the Non-Profit sector. At my last Non-Profit, The Night Ministry, I worked with homeless youth in Chicago. These kids had limited options for future careers. 
 

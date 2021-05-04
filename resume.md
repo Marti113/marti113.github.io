@@ -10,6 +10,9 @@ layout: resume
 - Extensive professional background working in small and large organizations  
 
 ## Education
+Georgia Institute of Technology (expected graduation 2024)
+MS in Computer Science
+
 City College of San Francisco (May 2020) Computer Programming Certificate in Java  
 ***Relevant Coursework:*** *Data Structures and Algorithms, Advanced Java SE, Software Engineering*  
 
