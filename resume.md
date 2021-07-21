@@ -25,7 +25,7 @@ Learning the fundamentals of the Salesforce software and platforms
 CCSF | Teaching Assistant CS 110 Intro to Programming (Aug 2019 – May 2020)  
 Download, run, debug, and grade student assignments. Hold office hours for tutoring
 
-*A complete history on non-technical experience available on request*
+*A complete history of non-technical experience available on request*
 
 ## Projects
 Weather Bot  

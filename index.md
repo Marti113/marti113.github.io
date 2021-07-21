@@ -3,7 +3,9 @@
 ---
 Welcome to my website!
 
-I've been programming as a hobby since 2016. In 2018, I decided to round out my studies with CS classes at City College SF. I was recently accepted into Georgia Tech's MS Computer Science program. It is a part time program I plan to do in conjuction with a full time SE job. 
+I've been programming as a hobby since 2016. In 2018, I decided to continue my studies with Computer Science classes at City College San Francisco where I completed a certificate in Java Programming. From City College I was recruited into Salesforce's Pathfinder Program where I received development training on the Force.com platform.
+
+Recently I was accepted into Georgia Tech's MS Computer Science program. It is a part time program I plan to do in conjunction with a full time developer job.
 
 My previous professional experience is mostly in the Non-Profit sector. At my last Non-Profit, The Night Ministry, I worked with homeless youth in Chicago. These kids had limited options for future careers. 
 
